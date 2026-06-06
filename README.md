@@ -6,6 +6,6 @@ Github Pages Link: https://maribickpostanes.github.io/Production-Tree-3D/
 <img width="1920" height="1080" alt="Interactive 3D Production Tree" src="https://github.com/user-attachments/assets/c573d37d-9417-448e-86dd-92ccb57f47cb" />
 
 ## 3D Model Source
--Model: Simple Production Tree
--Author: Vyan Persad (via GrabCAD)
--Original Format: SOLIDWORKS (.sldprt)
+- Model: Simple Production Tree
+- Author: Vyan Persad (via GrabCAD)
+- Original Format: SOLIDWORKS (.sldprt)
