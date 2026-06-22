@@ -1,4 +1,4 @@
-<img width="620" height="722" alt="image" src="https://github.com/user-attachments/assets/f5388086-65f3-49b0-a0ec-bbe60044cf2d" /># 3D Interactive Production Tree Visualization (STL file) using Python
+# 3D Interactive Production Tree Visualization (STL file) using Python
 This repository hosts a proof-of-concept, 3D Interactive Production Tree plot visualized with Plotly from an STL file (converted from SLDPRT file). It is optimized specifically for web-based viewing, allowing you to rotate and inspect the model's complex geometry directly in your browser.
 
 ## Official Source & Security Notice
